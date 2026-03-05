@@ -1,2 +1,5 @@
-echo "# Hello World Project" > README.md
-echo "This project is a simple Python script created during my Software Engineering Bootcamp to demonstrate basic Git version control and Python output." >> README.md
+Created repository in GitHub
+Uploaded prior task file in the relevant folder
+Added comments for the udpate
+Committed the change
+Pushed the change through GitHub
