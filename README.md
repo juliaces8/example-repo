@@ -1,0 +1,2 @@
+echo "# Hello World Project" > README.md
+echo "This project is a simple Python script created during my Software Engineering Bootcamp to demonstrate basic Git version control and Python output." >> README.md
